@@ -1,3 +1,7 @@
+# Jonah's Landscaping Mockup Website
+
+Sample landscaping site for York PA outreach (Quince & Clover).
+
 # Quince & Clover Landscaping - Sample Client Site
 
 Static **multi-page** marketing mockup for **Quince & Clover Landscaping**, a fictional York, PA landscaper. Built for Jonah to preview and give feedback.
